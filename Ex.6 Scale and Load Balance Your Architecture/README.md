@@ -3,7 +3,9 @@
 ## Title
 
 Scale and Load Balance Your Architecture
-Author : your name   Reg no : yours   Date :
+Author : KARJHANI PRIYANKA S B  
+Reg no :212224040150  
+Date :6.06.26
 
 ---
 
@@ -72,10 +74,14 @@ Describe step-by-step how you performed this experiment in your own words.
 
 ## Output Screenshots 
 
+<img width="1902" height="962" alt="Screenshot 2026-03-18 215502" src="https://github.com/user-attachments/assets/80b25fb6-142a-4b6a-906f-d8a9eb359aed" />
 
----
+
+-<img width="1902" height="962" alt="Screenshot 2026-03-18 215502" src="https://github.com/user-attachments/assets/fd996c10-a376-49cc-b808-747393e24391" />
+
+<img width="1825" height="1101" alt="Screenshot 2026-03-18 221638" src="https://github.com/user-attachments/assets/251f7193-54c0-4221-b764-8dd227fef3c8" />
 
 
 ## Result
 
-This experiment demonstrated how to build a scalable and fault-tolerant cloud architecture using Auto Scaling Groups and Elastic Load Balancing. The system automatically adjusted resources based on workload and ensured continuous service availability by distributing traffic across multiple instances.
+This experiment demonstrated how to build a scalabl
